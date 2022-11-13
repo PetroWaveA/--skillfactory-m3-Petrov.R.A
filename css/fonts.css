@@ -1,0 +1,47 @@
+@font-face {
+	src: url('../fonts/static/OpenSans/OpenSans-Regular.ttf');
+	font-family: "OpenSans-Regular";
+	font-weight: 400;
+}
+@font-face {
+	src: url('../fonts/static/OpenSans/OpenSans-Medium.ttf');
+	font-family: "OpenSans-Medium";
+	font-weight: 500;
+}
+@font-face {
+	src: url('../fonts/static/OpenSans/OpenSans-Bold.ttf');
+	font-family: "OpenSans-Bold";
+	font-weight: 700;
+}
+@font-face {
+	src: url('../fonts/static/OpenSans/OpenSans-ExtraBold.ttf');
+	font-family: "OpenSans-ExtraBold";
+	font-weight: 800;
+}
+p {
+	font-family: "OpenSans-Medium";
+}
+a {
+	font-family: "OpenSans-Medium";
+}
+h1 {
+	font-family: "OpenSans-ExtraBold"
+}
+h2 {
+	font-family: "OpenSans-Bold"
+}
+h3 {
+	font-family: "OpenSans-Bold"
+}
+.subscribe-mailform {
+	font-family: "OpenSans-Medium";
+}
+.email-adress {
+	font-family: "OpenSans-Medium";
+}
+.subscribe-button {
+	font-family: "OpenSans-Medium";
+}
+.name, .mail, .messageblock, .message-button {
+	font-family: "OpenSans-Medium";
+}
